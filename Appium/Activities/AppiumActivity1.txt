@@ -1,1 +1,2 @@
 Appium test 1
+Appium test 2
